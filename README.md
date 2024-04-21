@@ -9,9 +9,9 @@ DXC Course Training Repo
 
 **File based Batch Processing**
 
-Summarize – “cna1.pdf”, “cna2.pdf”, “cna3.txt”, “Chinese.pdf”, “Malay.txt”
-Keyword Extraction - “cna1.pdf”, “cna2.pdf”, “cna3.txt”
-Translation – “Chinese.pdf”, “Malay.txt”
+Summarize – “cna1.pdf”, “cna2.pdf”, “cna3.txt”, “Chinese.pdf”, “Malay.txt”\n
+Keyword Extraction - “cna1.pdf”, “cna2.pdf”, “cna3.txt”\n
+Translation – “Chinese.pdf”, “Malay.txt”\n
 Customized Prompts – “Extract persons’ names mentioned” - “cna1.pdf”, “cna2.pdf”, “cna3.txt”, “Chinese.pdf”, “Malay.txt”
 
 
