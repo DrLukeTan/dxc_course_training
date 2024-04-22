@@ -1,0 +1,35 @@
+Hands-on one: Querying with leeway and get GPT to perform rating
+Model answer: Can you evaluate how likely Donald Trump may get reelected as President? Your prediction does not have to be accurate and definitive. I just want to obtain a sensing based on how he performed during his previous term as president
+
+
+Hands-on two: Getting GPT to explain concepts in simple terms to a children audience
+Model answer: Imagine you are writing for a children's magazine. Can you explain who Donald Trump is?
+
+Hands-on three: Getting GPT to output according to a user-prescribed format and making use of delimiters
+Model answer:
+Who are the people that are likely to vote for Donald Trump? Provide your output in the format below:
+Supporters:
+Type of supporter 1: <Type of supporter>
+Reasons for supporting: <Reason for supporting>
+Factors that may sway their vote: <Factors>
+
+Type of supporter 2: <Type of supporter 2>
+Reasons for supporting: <Reason for supporting>
+Factors that may sway their vote: <Factors>
+
+Hands-on four: Getting GPT to adopt a persona/perspective
+Model answer:
+Adopt the persona of an average Singaporean, and assess Donald Trump's policy on immigratino during his presidential term
+
+Hands-on five: Include relevant context in query for GPT to consider
+Model answer:
+It is now 2024 and Donald Trump is contesting for the presidential elections again. His competitors are:
+-Nikki Haley
+-Ron Desantis
+-Joe Biden
+-Marianne Williamson
+-Dean philips
+-Robert F.Kennedy Jr
+-Cornel West
+-Jill Stein
+Considering the backgrounds of the candidates, does trump have more experience in politics than his competitors?
